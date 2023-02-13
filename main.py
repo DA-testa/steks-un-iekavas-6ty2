@@ -1,4 +1,5 @@
 # python3
+# Arturs Ivautenko 221RDB358 1.grupa
 
 from collections import namedtuple
 
